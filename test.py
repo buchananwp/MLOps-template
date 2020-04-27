@@ -1,1 +1,0 @@
-{service-principal-name}, {subscription-id} and {resource-group} 
